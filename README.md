@@ -1,5 +1,7 @@
 # crawlis - module_base
 
+[![Build Status](https://travis-ci.com/crawlis/module_base.svg?branch=master)](https://travis-ci.com/github/crawlis/module_base)
+
 This is a generic repository to start a new Crawlis microservice.
 
 ## Getting started
