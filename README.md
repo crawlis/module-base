@@ -13,6 +13,4 @@ Then you'll need to update the following files by replacing every occurences of 
 
 - `.travis.yml` x1
 - `docker-compose.yml` x1
-- `dockerfiles/local-module-debug.Dockerfile` x2
-- `dockerfiles/local-module-release.Dockerfile` x2
 - `src/Cargo.toml` x1
